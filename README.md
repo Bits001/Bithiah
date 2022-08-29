@@ -7,7 +7,7 @@
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bits001&hide=javascript,html"/> 
 <img align="right"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Bithiah"/> <br /> <br /><br /> <br />
 <br /> <br /><br /><br /> <br />
-<img align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=Bits001&show_icons=true&theme=radical"/> <br /> <br /><br /><br /> <br />
+<img align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=Bits001&show_icons=true&theme=radical"/> <br /> <br /><br />
 <br /> <br /><br /> <br />
 <img align="left" alt="c-sharp"  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 
