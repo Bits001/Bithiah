@@ -5,7 +5,7 @@
 #### I also enjoy editing such as Photos and Videos, using Photoshop and Premiere. 🎥📷
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bits001&hide=javascript,html"/> 
-<img align="left  width="40% src="https://github-readme-stats.vercel.app/api/wakatime?username=Bithiah"/>
+<img align="right  width="40% src="https://github-readme-stats.vercel.app/api/wakatime?username=Bithiah"/>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bits001&show_icons=true&theme=radical"/>
