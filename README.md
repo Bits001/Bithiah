@@ -4,10 +4,10 @@
 #### I'm a Mobile Developer using Xamarin, an app development framework. 📱
 #### I also enjoy editing such as Photos and Videos, using Photoshop and Premiere. 🎥📷
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bits001&hide=javascript,html"/> 
-<img align="right  width="20% src="https://github-readme-stats.vercel.app/api/wakatime?username=Bithiah"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bits001&hide=javascript,html"/> 
+<img align="right  src="https://github-readme-stats.vercel.app/api/wakatime?username=Bithiah"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bits001&show_icons=true&theme=radical"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Bits001&show_icons=true&theme=radical"/>
 
 
 <img align="left" alt="c-sharp"  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
