@@ -1,11 +1,11 @@
 
-## Hi there, I'm Bithiah 👋
+## Hi there, I'm Bithiah! 👋
 ### I'm currently IT college student at Polytechnic University of the Philippines. 🏫
 #### I'm a Mobile Developer using Xamarin, an app development framework. 📱
 #### I also enjoy editing such as Photos and Videos, using Photoshop and Premiere. 🎥📷
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bits001&hide=javascript,html"/> 
-<img align="right  width="40% src="https://github-readme-stats.vercel.app/api/wakatime?username=Bithiah"/>
+<img align="right  width="20% src="https://github-readme-stats.vercel.app/api/wakatime?username=Bithiah"/>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bits001&show_icons=true&theme=radical"/>
