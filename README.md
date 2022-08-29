@@ -5,9 +5,11 @@
 
 </p>
 
-### About Me 🚀
+
 
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/71866332/187245126-9e8493fe-81da-4678-8f41-109681839d82.gif" height="55px" width="55px"> I'm Bithiah Corpuz </h1>
+
+### About Me 🚀
 
 🎓I'm currently IT college student at Polytechnic University of the Philippines.</br>
 📱I'm a Mobile Developer using Xamarin, an app development framework. 📱</br>
