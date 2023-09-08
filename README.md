@@ -12,7 +12,7 @@
 ### About Me 🚀
 
 🎓I'm currently IT college student at Polytechnic University of the Philippines.</br>
-📱I'm a Mobile Developer using Xamarin, an app development framework. 📱</br>
+📱I'm a Mobile Developer using Xamarin and Flutter platforms. 📱</br>
 🎥I also enjoy editing such as Photos and Videos, using Photoshop and Premiere. 📷 </br>
 
 
